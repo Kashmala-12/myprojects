@@ -1,0 +1,25 @@
+.form-control:focus{
+    border-color: #5cb85c;  
+    box-shadow: #5cb85c ; 
+    -webkit-box-shadow: none;}
+
+.form-control{
+    border-width: 2px;
+    border-color: grey;
+    border-radius: 20px;
+}  
+
+#submit{
+    border-radius: 35px;
+    padding:5px 49px;
+    margin-top: 5px;
+}
+
+label{
+    margin-left: 13px;
+    font-weight: bold;
+}
+small{
+    margin-left: 13px;
+    font-weight: bold;
+}
